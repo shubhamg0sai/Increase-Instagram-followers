@@ -5,16 +5,23 @@ Increase your instagram followers
 
 # installation
 apt update -y
+
 apt upgrade -y
 
 apt install git -y
+
 pkg install python
+
 pkg install python2 -y
 
 pip2 install requests
+
 pip2 install mechanize
 
 git clone https://github.com/ShuBhamg0sain/Increase-Instagram-followers
+
 cd Increase-Instagram-followers
+
 chmod +x install.sh
+
 ./install.sh
