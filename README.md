@@ -2,7 +2,8 @@
 Increase your instagram followers
 # follow me
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamgosainn)👈
-
+# note 
+For all server you need to login with fake account 
 # installation
 apt update -y
 
