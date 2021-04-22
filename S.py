@@ -2,7 +2,7 @@
 #GITHUB: https://www.instagram.com/shubham_g0sain
 import os
 CorrectUsername = "g0sain"
-CorrectPassword = "follow"
+CorrectPassword = "FOLLOW"
 
 loop = 'true'
 while (loop == 'true'):
