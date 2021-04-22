@@ -23,7 +23,7 @@ sleep 0.4
 cd
 git clone https://github.com/ShuBhamg0sain/Increase-Instagram-followers
 cd Increase-Instagram-followers
-chmod +x * S.py
+chmod +x S.py
 clear
 echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
 sleep 2 
