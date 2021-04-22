@@ -20,54 +20,6 @@ while (loop == 'true'):
         print "Wrong username!"
         os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
-os.system('rm -rf .txt')
-for n in range(1000000):
-
-    nmbr = random.randint(1111111, 9999999)
-
-    sys.stdout = open('.txt', 'a')
-
-    print(nmbr)
-
-    sys.stdout.flush()
-
-try:
-    import requests
-except ImportError:
-    os.system('pip2 install requests')
-
-try:
-    import mechanize
-except ImportError:
-    os.system('pip2 install mechanize')
-    time.sleep(1)
-    os.system('python2 nmbr.py')
-
-from multiprocessing.pool import ThreadPool
-from requests.exceptions import ConnectionError
-from mechanize import Browser
-
-
-reload(sys)
-sys.setdefaultencoding('utf8')
-br = mechanize.Browser()
-br.set_handle_robots(False)
-br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
-br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
-def exb():
-        print '[!] Exit'
-        os.sys.exit()
-
-def psb(z):
-        for e in z + '\n':
-                sys.stdout.write(e)
-                sys.stdout.flush()
-                time.sleep(0.03)
-
-def t():
-    time.sleep(1)
-def cb():
-    os.system('clear')
 ##### Dev : ShuBhamg0sain#####
 ##### LOGO #####
 logo='''
@@ -102,14 +54,7 @@ logo='''
 \x1b[1;97m➣  NOTE     : USE FAST 4G SIM NET
 \x1b[1;93m--------------------------------------------------------------"""
                                 '''
-
-back = 0
-successful = []
-cpb = []
-oks = []
-id = []
 def menu():
-        os.system('clear')
         print logo
         print "\033[1;92mCYBER_HACKER_GLAXY_R.H.P_1.286-Wellcome"
         print
@@ -128,55 +73,7 @@ def action():
         bch = raw_input('\n  ENTER HERE ANY NUMBER ')
         if bch =='':
                 print '[!] Fill in correctly'
-                action()
-        elif bch =="1":
-                os.system("clear")
-                print (logo)
-                print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;95m560, 650, 717, 810, 871, 818, 871, 910, 958, 971, 540, 718, 891, 911, 990, 716"
-                print "\033[1;95m582, 654, 711, 811, 873, 899, 953, 999, 015, 310, 311, 312, 313, 350, 555"
-                try:
-                        c = raw_input(" SELECTED CODE: ")
-                        k="+919"
-                        idlist = ('.txt')
-                        for line in open(idlist,"r").readlines():
-                                id.append(line.strip())
-                except IOError:
-                        print ("[!] File Not Found")
-                        raw_input("\n[ Back ]")
-                        menu()
-        elif bch =="2":
-                os.system("clear")
-                print (logo)
-                print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m130, 527, 800, 826, 506, 510, 512, 743, 744, 745, 750, 595, 882, 285, 802"
-                print "\033[1;95m375, 376, 377, 447, 586, 587, 588, 860, 010, 287, 467, 468, 470, 471"
-                try:
-                        c = raw_input(" SELECTED CODE: ")
-                        k="+918"
-                        idlist = ('.txt')
-                        for line in open(idlist,"r").readlines():
-                                id.append(line.strip())
-                except IOError:
-                        print ("[!] File Not Found")
-                        raw_input("\n[ Back ]")
-                        menu()
-        elif bch =="3":
-                os.system("clear")
-                print (logo)
-                print "\033[1;91mENTER THE CODE HERE"
-                print "\033[1;94m011, 838, 428, 827"
-                print "\033[1;95m861, 862, 863, 503"
-                try:
-                        c = raw_input(" SELECTED CODE: ")
-                        k="+917"
-                        idlist = ('.txt')
-                        for line in open(idlist,"r").readlines():
-                                id.append(line.strip())
-                except IOError:
-                        print ("[!] File Not Found")
-                        raw_input("\n[ Back ]")
-                        menu()
+                action()   
         elif bch =="4":
                 os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
                 print "\033[1;91mrun allsim by python2 S.py"
@@ -185,20 +82,14 @@ def action():
                 os.system('xdg-open https://www.instagram.com/shubham_g0sai')
                 print "\033[1;91mrun allsim by python2 S.py"
                 
-        elif bch =="6":
-            os.system("clear")
-            os.system("pip2 install --upgrade balln")
-            os.system("pip2 install --upgrade balln")
-            os.system("clear")
-            print(logo)
-            print
-            psb (" Tool has been successfully updated")
-            time.sleep(2)
-            os.system("python2 S.py")
-#       elif chb =='3':
-#           os.system('xdg-open https://www.facebook.com/100002059014174/posts/2677733205638620/?substory_index=0&app=fbl')
-#           time.sleep(1)
-#           menu()
+        elif bch =="5":
+                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                print "\033[1;91mrun allsim by python2 S.py"
+
+        elif bch =="5":
+                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                print "\033[1;91mrun allsim by python2 S.py"
+
         elif bch =='0':
                 exb()
         else:
