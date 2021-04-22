@@ -22,10 +22,13 @@ while (loop == 'true'):
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 ##### Dev : ShuBhamg0sain#####
 ##### LOGO #####
+import os
+os.system('clear')
+os.system("figlet -f pagga '      Facebook      ' | lolcat")
+os.system("figlet -f pagga ' Brute-Force ' | lolcat")
+os.system("figlet -f pagga '      Attack      ' | lolcat")
 logo='''
 \033[1;96m•◈•───────────────•◈•\033[1;92mShuBhamg0sain\033[1;96m•◈•───────────────•◈•
-
-
 \033[1;47m                  \033[1;31mShuBhamg0sain                \033[1;0m
 \x1b[1;93m--------------------------------------------------------------
 \x1b[1;92m➣  NAME  : Shubhamg0sain
@@ -79,7 +82,7 @@ def action():
 
         
         raw_input('\n[Press Enter To Go Back]')
-        python2 S.py
+
 
 if __name__ == '__main__':
         menu()
