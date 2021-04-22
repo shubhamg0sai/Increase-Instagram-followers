@@ -9,17 +9,13 @@ clear
 apt update -y
 echo -e $g 'Please Wait ===+['$p'>              '$g']\'
 sleep 0.4
-apt upgrade -y
 clear
 echo -e $g 'Please Wait ===+['$p'-------------> '$g']\'
 sleep 0.4
-apt install git -y
-pkg install python
-pkg install python2 -y
+pip2 install requests
 clear
 echo -e $g 'Please Wait ===+['$p'-------------->'$g']|'
 sleep 0.4
-pip2 install requests
 pip2 install mechanize
 clear 
 echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
