@@ -57,13 +57,13 @@ def action():
                 action()   
 
         elif bch =="1":
-                os.system('xdg-open https://bayitakipci.com/')             
+                os.system('xdg-open https://bayitakipci.com/memberlogin')             
                 
         elif bch =="2":
-                os.system('xdg-open https://begeni.vip/enter')
+                os.system('xdg-open https://begeni.vip/girisyap')
                               
         elif bch =="3":
-                os.system('xdg-open https://gramtakipci.com/')
+                os.system('xdg-open https://gramtakipci.com/loginyap')
                 
         elif bch =="4":
                 os.system('xdg-open https://www.instagram.com/shubham_g0sai')
