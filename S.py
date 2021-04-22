@@ -72,7 +72,7 @@ def menu():
 def action():
         bch = raw_input('\n  ENTER HERE ANY NUMBER ')
         if bch =='':
-                print '[!] Fill in correctly'
+                os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
                 action()   
         elif bch =="4":
                 os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
@@ -98,7 +98,7 @@ def action():
 
         
         raw_input('\n[Press Enter To Go Back]')
-        os.system('python2 S.py')
+        os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')
 
 if __name__ == '__main__':
         menu()
