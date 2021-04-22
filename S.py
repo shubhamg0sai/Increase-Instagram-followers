@@ -28,10 +28,10 @@ os.system("figlet -f pagga 'instagram' | lolcat")
 os.system("figlet -f pagga 'followers' | lolcat")
 logo='''
 \033[1;92m•◈•───────────────•◈•\033[1;92mShuBhamg0sain\033[1;96m•◈•───────────────•◈•
-\x1b[1;93m--------------------------------------------------------------
+\x1b[1;93m-------------------------------------------------------------
 \x1b[1;96m➣  NAME  : Shubhamg0sain
 \x1b[1;91m➣  CYBER NAME : BLACK-KILLER
-\x1b[1;93m--------------------------------------------------------------"""
+\x1b[1;93m-------------------------------------------------------------
                                 '''
 def menu():
         print logo
@@ -50,20 +50,20 @@ def menu():
         action()
 
 def action():
-        bch = raw_input('\n  ENTER SERVER NUMBER')
+        bch = raw_input('\n  ENTER SERVER NUMBER ')
         if bch =='':
                 print "\033[1;91mFill in correctly"
                 os.system('xdg-open https://www.instagram.com/shubham_g0sain/?hl=en')
                 action()   
 
         elif bch =="1":
-                os.system('xdg-open https://chat.whatsapp.com/JtCW38B01hjAGwlVHhyu5q')             
+                os.system('xdg-open https://bayitakipci.com/')             
                 
         elif bch =="2":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://begeni.vip/enter')
                               
         elif bch =="3":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://gramtakipci.com/')
                 
         elif bch =="4":
                 os.system('xdg-open https://www.instagram.com/shubham_g0sai')
@@ -75,7 +75,7 @@ def action():
                 os.system('xdg-open https://www.instagram.com/shubham_g0sai')
   
         elif bch =="7":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://www.instagram.com/shubham_g0sain')
           
         elif bch =="8":  
                 os.system("cd")
