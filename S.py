@@ -69,10 +69,10 @@ def action():
                 os.system('xdg-open https://www.instagram.com/shubham_g0sai')
 
         elif bch =="5":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://instahile.com/girisyap')
  
         elif bch =="6":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://nakrutka.com/')
   
         elif bch =="7":
                 os.system('xdg-open https://www.instagram.com/shubham_g0sain')
