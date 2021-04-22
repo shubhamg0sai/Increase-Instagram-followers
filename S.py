@@ -66,10 +66,10 @@ def action():
                 os.system('xdg-open https://gramtakipci.com/loginyap')
                 
         elif bch =="4":
-                os.system('xdg-open https://www.instagram.com/shubham_g0sai')
+                os.system('xdg-open https://turktakipcihilesi.com/giriss')
 
         elif bch =="5":
-                os.system('xdg-open https://instahile.com/girisyap')
+                os.system('xdg-open https://instahile.com/giriss')
  
         elif bch =="6":
                 os.system('xdg-open https://nakrutka.com/')
