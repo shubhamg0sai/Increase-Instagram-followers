@@ -69,7 +69,7 @@ def action():
                 os.system('xdg-open https://turktakipcihilesi.com/giriss')
 
         elif bch =="5":
-                os.system('xdg-open https://instahile.com/giriss')
+                os.system('xdg-open https://instahile.com')
  
         elif bch =="6":
                 os.system('xdg-open https://nakrutka.com/')
