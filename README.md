@@ -25,3 +25,15 @@ cd Increase-Instagram-followers
 chmod +x install.sh
 
 ./install.sh
+
+server 1
+
+server 2
+
+server 3
+
+server 4
+
+server 5
+
+server 6
