@@ -11,29 +11,21 @@ const {
 (async () => {
   print(
     chalk`{bold.green
-  ▄▄▄▄▄            ▄▄▌  .▄▄ · ▪   ▄▄ • 
-  •██  ▪     ▪     ██•  ▐█ ▀. ██ ▐█ ▀ ▪
-   ▐█.▪ ▄█▀▄  ▄█▀▄ ██▪  ▄▀▀▀█▄▐█·▄█ ▀█▄
-   ▐█▌·▐█▌.▐▌▐█▌.▐▌▐█▌▐▌▐█▄▪▐█▐█▌▐█▄▪▐█
-   ▀▀▀  ▀█▄▀▪ ▀█▄▀▪.▀▀▀  ▀▀▀▀ ▀▀▀·▀▀▀▀ 
 
-  Ξ TITLE : Like All Media of Targeted User
-  Ξ NOTE  : 116 111 111 108 115 105 103  118 51 
-          : TESTED "OK" BUG? YouTellMe!
     }`
   );
   const questions = [
     {
       type: "input",
       name: "username",
-      message: "Input username:",
+      message: "Input your username:",
       validate: (val) => val.length != 0 || "Please input username!",
     },
     {
       type: "password",
       name: "password",
       mask: "*",
-      message: "Input password:",
+      message: "Input your password:",
       validate: (val) => val.length != 0 || "Please input password!",
     },
     {
