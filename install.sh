@@ -25,6 +25,6 @@ git clone https://github.com/ShuBhamg0sain/Increase-Instagram-followers
 cd Increase-Instagram-followers
 chmod +x S.py
 clear
-echo -e "$g+++++++++++>[$pWelcome to the new update$p$g]<+++++++++++++"
+echo -e "$g+++++++++++>[$p Welcome to the new update$p$g]<+++++++++++++"
 sleep 2 
 python2 S.py
