@@ -3,7 +3,8 @@ Increase your instagram followers
 # follow me
 👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamgosainn)👈
 # note 
-For all server you need to login with fake account 
+In all server you need to login with fake account first
+Warning ⚠️ don't used your real account 
 # Screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011215.jpg)
 
@@ -32,6 +33,11 @@ chmod +x install.sh
 ./install.sh
 
 server 1
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011442.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011351.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011403.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011417.jpg)
+![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011235.jpg)
 
 server 2
 
