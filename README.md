@@ -33,3 +33,5 @@ cd Increase-Instagram-followers
 chmod +x install.sh
 
 ./install.sh
+
+![video tutorial server1](https://github.com/ShuBhamg0sain/Increase-Instagram-followers/blob/main/Files/Screenrecording_20210423_103335.mp4)
