@@ -34,5 +34,5 @@ chmod +x install.sh
 
 ./install.sh
 
-# video tutorial
-![ ](https://youtu.be/c3tkQT8I3NE)
+ 
+![video tutorial server 3](https://youtu.be/c3tkQT8I3NE)
