@@ -33,14 +33,3 @@ cd Increase-Instagram-followers
 chmod +x install.sh
 
 ./install.sh
-
-# video tutorial server 1
-https://youtu.be/NVN6LM1T0ko
-# video tutorial server 2
-https://youtu.be/DdjQNwdS450
-# video tutorial server 3
-https://youtu.be/c3tkQT8I3NE
-# video tutorial server 4
-https://youtu.be/0_AEvMEa4h8
-# video tutorial server 5
-https://youtube.com/shorts/H14xpKDzd3Y?feature=share
