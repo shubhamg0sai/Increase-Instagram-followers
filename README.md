@@ -1,7 +1,7 @@
 # Increase-Instagram-followers
 Increase your instagram followers
 # follow me
-👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamgosainn)👈
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
 # note 
 * Warning ⚠️ don't used your real account
 * In all server you need to login with fake account
@@ -10,10 +10,7 @@ Increase your instagram followers
 # Screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011215.jpg)
 # tutorial video
-
-
-👉[![click here](https://img.shields.io/badge/video-red?style=for-the-badge&logo=instagram)](https://youtu.be/Z4aqMfoZvjU)👈
-
+👉[![click here](https://img.shields.io/badge/tutorial-video-red?style=for-the-badge&logo=instagram)](https://youtu.be/Z4aqMfoZvjU)👈
 
 # installation
 
