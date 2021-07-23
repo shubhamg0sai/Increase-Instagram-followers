@@ -10,7 +10,10 @@ Increase your instagram followers
 # Screenshot
 ![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011215.jpg)
 # tutorial video
-![ ](https://youtu.be/Z4aqMfoZvjU)
+
+
+👉[![click here](https://img.shields.io/badge/video-red?style=for-the-badge&logo=instagram)](https://youtu.be/Z4aqMfoZvjU)👈
+
 
 # installation
 
