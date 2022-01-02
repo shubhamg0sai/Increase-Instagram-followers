@@ -1,15 +1,15 @@
 # Increase-Instagram-followers
 Increase your instagram followers
-# follow me
 Instagram account
-👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sain)👈
+👉[![Instagram  ](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubhamg0sai)👈
+
 # note 
 * Warning ⚠️ don't used your real account
 * In all server you need to login with fake account
 * For any problems any how to used contact me for that
 * 
 # Screenshot
-![ ](https://raw.githubusercontent.com/ShuBhamg0sain/Increase-Instagram-followers/main/Files/IMG_20210423_011215.jpg)
+![ ](https://raw.githubusercontent.com/shubhamg0sai/Increase-Instagram-followers/main/Files/IMG_20210423_011215.jpg)
 # tutorial video
 👉[![click here](https://img.shields.io/badge/tutorial-video-red?style=for-the-badge&logo=instagram)](https://youtu.be/Z4aqMfoZvjU)👈
 
@@ -29,7 +29,7 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/ShuBhamg0sain/Increase-Instagram-followers
+git clone https://github.com/shubhamg0sai/Increase-Instagram-followers
 
 cd Increase-Instagram-followers
 
